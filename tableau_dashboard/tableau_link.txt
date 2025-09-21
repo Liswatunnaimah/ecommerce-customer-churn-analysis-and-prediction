@@ -1,0 +1,1 @@
+link_tableau = https://public.tableau.com/app/profile/aldino.putra/viz/E-CommerceChurnAnalysis_17536276743170/MainDashboard?showOnboarding=true
