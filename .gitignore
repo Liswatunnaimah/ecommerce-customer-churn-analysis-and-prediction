@@ -1,0 +1,33 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data (opsional, kalau tidak mau upload dataset raw besar)
+data/raw/
+*.csv
+*.xlsx
+
+# Model artefacts (opsional, kalau besar)
+*.h5
+*.pkl
+*.joblib
+
+# Streamlit cache
+.streamlit/
